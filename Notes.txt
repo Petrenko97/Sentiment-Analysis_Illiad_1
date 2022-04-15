@@ -1,0 +1,6 @@
+The assignment was executed from Jupiter and i deleted the .DS_Store file in the HW2 folder to read the files easier.
+Also in the code i have a path variable that contains the path for the HW2 folder from my PC.
+
+Kind regards, 
+
+Memtsas Athanasios
